@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "JUST ONE MORE KISS",
+  "base_artist": "BUCK-TICK",
+  "createdAt": "2026-02-25T13:18:18.188755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "JUST ONE MORE KISS",
+      "artist": "Buck-Tick",
+      "has_synced": false,
+      "path": "select/01_JUST_ONE_MORE_KISS_Buck-Tick.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "JUST ONE MORE KISS",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/02_JUST_ONE_MORE_KISS_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "JUST ONE MORE KISS",
+      "artist": "BUCK‐TICK",
+      "has_synced": false,
+      "path": "select/03_JUST_ONE_MORE_KISS_BUCK‐TICK.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let Just One More Kiss",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": true,
+      "path": "select/04_Let_Just_One_More_Kiss_Lucky_Kilimanjaro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just One More Day",
+      "artist": "Huey Lewis and The News",
+      "has_synced": false,
+      "path": "select/05_Just_One_More_Day_Huey_Lewis_and_The_News.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(She'll Stay Just) One More Day",
+      "artist": "Stray Cats",
+      "has_synced": false,
+      "path": "select/06_(She'll_Stay_Just)_One_More_Day_Stray_Cats.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just One More",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/07_Just_One_More_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Just One More Heartbreak",
+      "artist": "Magnum",
+      "has_synced": false,
+      "path": "select/08_Just_One_More_Heartbreak_Magnum.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just One More Day",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/09_Just_One_More_Day_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just One More (acoustic)",
+      "artist": "Nickelback",
+      "has_synced": false,
+      "path": "select/10_Just_One_More_(acoustic)_Nickelback.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(She'll Stay Just)One More Day",
+      "artist": "Stray Cats",
+      "has_synced": false,
+      "path": "select/11_(She'll_Stay_Just)One_More_Day_Stray_Cats.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Just One More Chance",
+      "artist": "Peggy Lee",
+      "has_synced": false,
+      "path": "select/12_Just_One_More_Chance_Peggy_Lee.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tell Me Just One More Time",
+      "artist": "Leo Sayer",
+      "has_synced": false,
+      "path": "select/13_Tell_Me_Just_One_More_Time_Leo_Sayer.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Just One More",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/14_Just_One_More_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just One More Chance",
+      "artist": "Dinah Washington",
+      "has_synced": false,
+      "path": "select/15_Just_One_More_Chance_Dinah_Washington.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Just One More Chance",
+      "artist": "Billie Holiday",
+      "has_synced": true,
+      "path": "select/16_Just_One_More_Chance_Billie_Holiday.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Just One More Night",
+      "artist": "Yellow Dog",
+      "has_synced": true,
+      "path": "select/17_Just_One_More_Night_Yellow_Dog.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JUST ONE MORE KISS",
+      "artist": "BUCK-TICK",
+      "has_synced": false,
+      "path": "select/pl_01_JUST_ONE_MORE_KISS_BUCK-TICK.txt"
+    }
+  ]
+}
